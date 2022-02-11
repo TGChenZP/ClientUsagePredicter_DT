@@ -1,4 +1,4 @@
-# Client Usage Predicter
+# Client Usage Predicter (Decision Tree Model)
 This was a project undertaken as part of an Internship in July-October 2021 and predicts whether a client will significantly increase or decrease their use of the company's online service this week, based on the data collected in the previous week. 
 The module contains three .py scripts (one more in the folder Initial.py), and are designed so that the data each week is not only used to predict an outcome but also be included to retrain the decision tree predictor model.
 
