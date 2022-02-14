@@ -6,6 +6,7 @@ Details such as implementation and the data science theory behind the model can 
 
 As part of company protocols all raw company data were removed from this repository, and thus as the code were tailor-made based on the company's data it may be rather difficult to understand what is going on - the "Data Science Decisions" in Documentation_(DT).pdf may better represent my ideas. As the output of the scripts contained client names, these were also removed when pushed to Github.
 
+The Decision Tree Prediction Objects and Pickle Objects are from the training that was most recently run on Week 231 (29/11/2021 - 5/12/2021).
 
 The Flask folder contains scripts which support a Flask Web application interface for the predictor
 
